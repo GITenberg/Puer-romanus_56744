@@ -1,0 +1,23 @@
+_repo: Puer-romanus_56744
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jones, William Henry Samuel
+    gutenberg_agent_id: '49014'
+    url: http://www.gutenberg.org/2009/agents/49014
+  - agent_name: Appleton, Reginald Bainbridge
+    gutenberg_agent_id: '49013'
+    url: http://www.gutenberg.org/2009/agents/49013
+description: ''
+gutenberg_issued: '2018-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56744'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Puer romanus
+url: http://www.gutenberg.org/ebooks/56744
